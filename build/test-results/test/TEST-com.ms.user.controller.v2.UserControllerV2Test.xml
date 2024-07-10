@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ms.user.controller.v2.UserControllerV2Test" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-07-10T21:59:52" hostname="daniels-MacBook-Pro-2.local" time="0.598">
+  <properties/>
+  <testcase name="testCreateNewUser()" classname="com.ms.user.controller.v2.UserControllerV2Test" time="0.598"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

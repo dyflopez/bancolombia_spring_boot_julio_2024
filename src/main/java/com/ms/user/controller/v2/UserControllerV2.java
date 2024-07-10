@@ -17,6 +17,7 @@ public class UserControllerV2 implements UserDocV2 {
     private final IUserService iUserService;
     @Override
     public ResponseEntity<UserEntity> create(UserDto userDto) {
-        return this.iUserService.save(userDto);
+        var slaida =  this.iUserService.save(userDto);
+        return slaida;
     }
 }
